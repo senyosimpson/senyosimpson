@@ -1,16 +1,29 @@
-### Hi there 👋
+### Akwaaba! 👋🏾
 
-<!--
-**senyosimpson/senyosimpson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a newly minted software engineer with a core focus on infrastructure. I'm
+passionate about developer experience and productivity and I'm nurturing a growing
+interest in tech leadership. I love to enable others to do their best work 🌱
 
-Here are some ideas to get you started:
+I'm based in the beautiful city of [Cape Town], South Africa 🇿🇦
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Writing ✍🏾
+
+I write semiregularly on my blog, [Bloom]. It's focused on my learnings throughout
+my industry journey. It's likely to converge around distributed systems and Rust 🦀
+
+### Newsletter 📝
+
+I keep a [newsletter], also named Bloom, go figure. I provide no guarantee on frequency
+of updates or consistency of content. It's mainly centered around software and startups.
+I hope you find something to enjoy in there 📢
+
+### Contact 🤙🏾
+
+The easiest way to contact me is on [the bird app] 🕊️. Otherwise feel free to send
+me an [email] 📮
+
+[email]: simpsonsenyo@gmail.com
+[the bird app]: https://twitter.com/SenYeezus
+[Bloom]: https://senyosimpson.com
+[newsletter]: http://digests.senyosimpson.com
+[Cape Town]: https://upload.wikimedia.org/wikipedia/commons/8/8f/View_from_the_Rocks_Cape_Town_1.jpg
