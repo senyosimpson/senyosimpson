@@ -22,7 +22,7 @@ I hope you find something to enjoy in there 📢
 The easiest way to contact me is on [the bird app] 🕊️. Otherwise feel free to send
 me an [email] 📮
 
-[email]: simpsonsenyo@gmail.com
+[email]: mailto:simpsonsenyo@gmail.com
 [the bird app]: https://twitter.com/SenYeezus
 [Bloom]: https://senyosimpson.com
 [newsletter]: http://digests.senyosimpson.com
