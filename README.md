@@ -1,6 +1,6 @@
 ### Akwaaba! 👋🏾
 
-I'm a newly minted software engineer with a core focus on infrastructure. I'm
+I'm a software engineer with a core focus on infrastructure and developer tooling. I'm
 passionate about developer experience and productivity and I'm nurturing a growing
 interest in tech leadership. I love to enable others to do their best work 🌱
 
