@@ -8,14 +8,13 @@ I'm based in the beautiful city of [Cape Town], South Africa 🇿🇦
 
 ### Writing ✍🏾
 
-I write semiregularly on my blog, [Bloom]. It's focused on my learnings throughout
+I write semiregularly on my blog, [Undefined Behaviour]. It's focused on my learnings throughout
 my industry journey. It's likely to converge around distributed systems and Rust 🦀
 
 ### Newsletter 📝
 
-I keep a [newsletter], also named Bloom, go figure. I provide no guarantee on frequency
-of updates or consistency of content. It's mainly centered around software and startups.
-I hope you find something to enjoy in there 📢
+I keep a [newsletter]. I provide no guarantee on frequency of updates or consistency of content.
+It's mainly centered around software and startups. I hope you find something to enjoy in there 📢
 
 ### Contact 🤙🏾
 
@@ -24,6 +23,6 @@ me an [email] 📮
 
 [email]: mailto:simpsonsenyo@gmail.com
 [the bird app]: https://twitter.com/SenYeezus
-[Bloom]: https://senyosimpson.com
+[Undefined Behaviour]: https://senyosimpson.com
 [newsletter]: http://digests.senyosimpson.com
 [Cape Town]: https://upload.wikimedia.org/wikipedia/commons/8/8f/View_from_the_Rocks_Cape_Town_1.jpg
