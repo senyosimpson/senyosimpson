@@ -1,9 +1,7 @@
 ### Akwaaba! 👋🏾
 
-I'm a software engineer interested in both building and operating software systems.
-I'm passionate about the intersection of developer experience and developer productivity.
-How do we build tools that vastly improve developer productivity? I'm nurturing a growing
-interest in tech leadership. I love to enable others to do their best work 🌱
+I'm a software engineer interested in both building and operating software systems. My current focus
+is on networking and cloud infrastructure. I love to enable others to do their best work 🌱
 
 I'm based in the beautiful city of [Cape Town], South Africa 🇿🇦
 
