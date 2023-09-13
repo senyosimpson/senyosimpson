@@ -10,11 +10,6 @@ I'm based in the beautiful city of [Cape Town], South Africa 🇿🇦
 I write semiregularly on my blog, [Undefined Behaviour]. It's focused on my learnings throughout
 my industry journey. It's likely to converge around distributed systems and Rust 🦀
 
-### Newsletter 📝
-
-I keep a [newsletter]. I provide no guarantee on frequency of updates or consistency of content.
-It's mainly centered around software and startups. I hope you find something to enjoy in there 📢
-
 ### Contact 🤙🏾
 
 The easiest way to contact me is on [the bird app] 🕊️. Otherwise feel free to send
