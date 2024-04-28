@@ -7,8 +7,7 @@ I'm based in the beautiful city of [Cape Town], South Africa 🇿🇦
 
 ### Writing ✍🏾
 
-I write semiregularly on my blog, [out of memory]. It's focused on my learnings throughout
-my industry journey. It's likely to converge around distributed systems and Rust 🦀
+I write semiregularly on my blog, [out of memory].
 
 ### Contact 🤙🏾
 
