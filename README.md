@@ -7,7 +7,7 @@ I'm based in the beautiful city of [Cape Town], South Africa 🇿🇦
 
 ### Writing ✍🏾
 
-I write semiregularly on my blog, [Undefined Behaviour]. It's focused on my learnings throughout
+I write semiregularly on my blog, [out of memory]. It's focused on my learnings throughout
 my industry journey. It's likely to converge around distributed systems and Rust 🦀
 
 ### Contact 🤙🏾
@@ -17,6 +17,6 @@ me an [email] 📮
 
 [email]: mailto:simpsonsenyo@gmail.com
 [the bird app]: https://twitter.com/SenYeezus
-[Undefined Behaviour]: https://senyosimpson.com
+[out of memory]: https://oom.senyosimpson.com
 [newsletter]: http://digests.senyosimpson.com
 [Cape Town]: https://upload.wikimedia.org/wikipedia/commons/8/8f/View_from_the_Rocks_Cape_Town_1.jpg
